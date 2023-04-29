@@ -1,0 +1,64 @@
+{
+	"todos": [
+		{
+			"userId": 1,
+			"id": 1,
+			"title": "delectus aut autem",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 2,
+			"title": "quis ut nam facilis et officia qui",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 3,
+			"title": "fugiat veniam minus",
+			"completed": false
+		}
+	],
+	"heroes": [
+		{
+			"id": 11,
+			"name": "Dr Stranger"
+		},
+		{
+			"id": 12,
+			"name": "Batman"
+		},
+		{
+			"id": 13,
+			"name": "Superman"
+		},
+		{
+			"id": 14,
+			"name": "Ironman"
+		},
+		{
+			"id": 15,
+			"name": "Spiderman"
+		},
+		{
+			"id": 16,
+			"name": "Thor"
+		},
+		{
+			"id": 17,
+			"name": "Hulk"
+		},
+		{
+			"id": 18,
+			"name": "Black Widow"
+		},
+		{
+			"id": 19,
+			"name": "Captain America"
+		},
+		{
+			"id": 20,
+			"name": "Joker"
+		}
+	]
+}
