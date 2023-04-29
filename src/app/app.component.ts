@@ -18,7 +18,6 @@ export class AppComponent implements OnInit {
     console.log('oninit');
     console.log('test');
     console.log('test2');
-    console.log('add first clg');
     this.http.get(`${environment.apiBaseUrl}/todos`).subscribe({
       next: (respone: any) => {
         console.log(respone);
